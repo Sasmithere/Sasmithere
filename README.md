@@ -4,11 +4,11 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sasmithere" alt="Sasmithere" /></a> </p>-->
 
--  I'm currently working on **I’m currently working on UEFI Development on Unsupported Qualcomm platform sm6150/sdm675 , Device: Redmi Note 7 Pro , CodeName: Violet**
+-  I'm currently working on **UEFI Development on Unsupported Qualcomm platform sm6150/sdm675 , Device: Redmi Note 7 Pro , CodeName: Violet**
 
 -  I'm currently learning **Linux, Bash Scripting, Machine Learning, Firmware Engineering, C++**
 
--  I'm looking to collaborate on **I’m looking to collaborate on Tinkering with Low-Level System, because i love complexity, i love to Scratch my head and get that Eureka Moment!**
+-  I'm looking to collaborate on **Tinkering with Low-Level System, because i love complexity and i love to Scratch my head, later to get that Eureka Moment!**
 
 -  I'm looking for help with **EDK2 Development for Redmi Note 7 Pro(Violet), motto ? my gaming laptop is heavy**
 
